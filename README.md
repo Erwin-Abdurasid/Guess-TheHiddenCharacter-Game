@@ -1,6 +1,6 @@
 # ![icon](favicon.ico) Guess The Hidden Character Game
 
-<!-- 2022 -->
+![year](https://img.shields.io/badge/year-2022-blue)
 
 A simple CLI-based Game. It is helpful when you are practicing your familiarization process towards people's names and attributes.
 
