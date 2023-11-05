@@ -1,5 +1,0 @@
-C:\Users\User\Desktop\UnPublished Software\GuessTheHiddenCharacter.Game.Cli\bin\Release\net6.0\publish\GuessTheHiddenCharacter.Game.exe
-C:\Users\User\Desktop\UnPublished Software\GuessTheHiddenCharacter.Game.Cli\bin\Release\net6.0\publish\GuessTheHiddenCharacter.Game.dll
-C:\Users\User\Desktop\UnPublished Software\GuessTheHiddenCharacter.Game.Cli\bin\Release\net6.0\publish\GuessTheHiddenCharacter.Game.deps.json
-C:\Users\User\Desktop\UnPublished Software\GuessTheHiddenCharacter.Game.Cli\bin\Release\net6.0\publish\GuessTheHiddenCharacter.Game.runtimeconfig.json
-C:\Users\User\Desktop\UnPublished Software\GuessTheHiddenCharacter.Game.Cli\bin\Release\net6.0\publish\GuessTheHiddenCharacter.Game.pdb

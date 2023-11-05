@@ -1,5 +1,0 @@
-C:\Users\User\Desktop\GuessTheHiddenCharacter.Game.exe
-C:\Users\User\Desktop\GuessTheHiddenCharacter.Game.dll
-C:\Users\User\Desktop\GuessTheHiddenCharacter.Game.deps.json
-C:\Users\User\Desktop\GuessTheHiddenCharacter.Game.runtimeconfig.json
-C:\Users\User\Desktop\GuessTheHiddenCharacter.Game.pdb
